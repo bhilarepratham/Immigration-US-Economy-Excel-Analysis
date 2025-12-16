@@ -1,5 +1,4 @@
-# Immigration and the US Economy:
-A Comprehensive Statistical Analysis (1980-2021)
+# Immigration and the US Economy: A Comprehensive Statistical Analysis (1980-2021)
 
 ## 📌 Project Overview
 
