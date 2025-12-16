@@ -117,9 +117,9 @@ This project demonstrates how **Excel alone can be used for rigorous, large-scal
 
 For questions, collaboration, or discussion:
 
-* **Name:Pratham Bhilare
-* **LinkedIn: https://www.linkedin.com/in/prathambhilare/
-* **Portfolio: https://prathambhilare.notion.site/PRATHAM-BHILARE-246fcf1d303a801daaa7d26792c06ef1 
+* Name:Pratham Bhilare
+* LinkedIn: https://www.linkedin.com/in/prathambhilare/
+* Portfolio: https://prathambhilare.notion.site/PRATHAM-BHILARE-246fcf1d303a801daaa7d26792c06ef1 
 
 ---
 
